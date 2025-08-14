@@ -10,5 +10,5 @@ Uses a list to store quotes.
 Uses random.choice() to pick a quote.
 
 ## 📷 Screenshot
-![Motivational Quotes App](motivtional-quotes-app.PNG)
+![Motivational Quotes App](motivational-quotes-app.PNG)
 
