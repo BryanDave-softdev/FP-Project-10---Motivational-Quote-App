@@ -8,7 +8,7 @@ quotes = [
     "The harder you work for something, the greater you'll feel when you achieve it.",
     "Dream bigger, Do bigger.",
     "Push yourself, because no one else is going to do it for you.",
-    "sSometimes we're tested not to show our weaknesses, but to dixcover our strengths.",
+    "Sometimes we're tested not to show our weaknesses, but to dixcover our strengths.",
     "Wake up with determination. Go to bed with satisfaction.",
     "It's going to be hard, but hard does not mean impossible."
 ]
