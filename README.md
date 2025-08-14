@@ -8,3 +8,7 @@ Prints one random motivational quote per run.
 Uses a list to store quotes.
 
 Uses random.choice() to pick a quote.
+
+## 📷 Screenshot
+![Motivational Quotes App](motivtional-quotes-app.PNG)
+
